@@ -1,7 +1,7 @@
 # Movie Database SPA
-archive of code
 
-It makes use of the [OMDB api] (http://www.omdbapi.com/)to return movie lists and individual movie info.
+
+This spa makes use of the [OMDB api] (http://www.omdbapi.com/) to return movie lists and individual movie info.
 
 ### Features:
 
