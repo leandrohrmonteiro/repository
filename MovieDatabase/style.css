@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+input{
+   
+    text-align: center;
+    display: block;
+    height: auto;
+    width: 22em;
+    margin: 0 auto;
+}
+
+
+img{
+    display: block;
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+     
+}
+
+button{
+    display: block;
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+}
